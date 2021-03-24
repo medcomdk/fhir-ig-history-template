@@ -18,6 +18,7 @@
   <link href="assets-hist/css/project.css" rel="stylesheet"/>
   <link href="assets-hist/css/pygments-manni.css" rel="stylesheet"/>
 	<link href="jquery-ui.css" rel="stylesheet"/>
+  <link rel="stylesheet" href="assets/css/hl7-dk.css"/>
 
   <!-- Favicons -->
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets-hist/ico/apple-touch-icon-144-precomposed.png"/>
@@ -30,14 +31,17 @@
   <link href="history.css" rel="stylesheet"/>
 
 </head>
-<body>
+<body onload="document.body.style.opacity='1'">
 
  <div id="segment-header" class="segment">  <!-- segment-header -->
   <div class="container">  <!-- container -->
-   <a id="logo" no-external="true" href="http://hl7.org/fhir"><img alt="logo fhir" src="assets-hist/images/fhir-logo-www.png"/></a>
-<div>
-<a id="hl7-logo" no-external="true" href="http://www.hl7.org">
-     <img alt="visit the hl7 website" width="42" height="50" src="assets-hist/images/hl7-logo.png"/>
+    <div id="project-nav">
+          <a no-external="true" id="hl7-logo" href="https://hl7dk.github.io">
+            <img src="assets/images/hl7dk-logo-header.png" alt="HL7 Denmark" height="65"/>
+          </a>
+  </div>
+  <div id="fhir-nav">
+    <a no-external="true" id="fhir-logo" href="http://hl7.org/fhir"><img src="assets/images/fhir-logo-www.png" alt="Visit the FHIR website" height="50"/>
     </a>
    </div>
    <div id="ig-status" style="font-size:24px;padding-top: 20px;">
