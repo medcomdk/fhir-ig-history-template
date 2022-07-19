@@ -36,8 +36,8 @@
  <div id="segment-header" class="segment">  <!-- segment-header -->
   <div class="container">  <!-- container -->
     <div id="project-nav">
-          <a no-external="true" id="hl7-logo" href="https://hl7dk.github.io">
-            <img src="assets/images/hl7dk-logo-header.png" alt="HL7 Denmark" height="65"/>
+          <a no-external="true" id="hl7-logo" href="https://github.com/medcomdk">
+            <img src="assets/image/medcom-logo-header.png" alt="MedCom" height="65"/>
           </a>
   </div>
   <div id="fhir-nav">
