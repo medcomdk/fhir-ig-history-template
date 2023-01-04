@@ -2079,7 +2079,7 @@ a.list-group-item.active .list-group-item-text {
   border-color: #eed3d7;
 }
 .panel-danger .panel-heading {
-  color: #b94a48;
+  color: #2F5979;
   background-color: #f2dede;
   border-color: #eed3d7;
 }
@@ -2266,7 +2266,7 @@ button.close {
 .nav-tabs > li.active > a,
 .nav-tabs > li.active > a:hover,
 .nav-tabs > li.active > a:focus {
-  color: #da0c23;
+  color: #346285;
   background-color: #ffffff;
   border: 1px solid #955159;
   border-bottom-color: transparent;
@@ -2364,7 +2364,7 @@ button.close {
   margin-bottom: 20px;
   padding-left: 15px;
   padding-right: 15px;
-  background-color: #da0c23;
+  background-color: #346285;
   border-radius: 4px;
 }
 .navbar:before,
@@ -2411,7 +2411,7 @@ button.close {
 .navbar-nav > .active > a:hover,
 .navbar-nav > .active > a:focus {
   color: #555555;
-  background-color: #aa091b;
+  background-color: #2F5979;
 }
 .navbar-nav > .disabled > a,
 .navbar-nav > .disabled > a:hover,
@@ -2514,7 +2514,7 @@ button.close {
 .navbar-nav > .open > a,
 .navbar-nav > .open > a:hover,
 .navbar-nav > .open > a:focus {
-  background-color: #aa091b;
+  background-color: #2F5979;
   color: #555555;
 }
 .navbar-nav > .open > a .caret,
@@ -2533,7 +2533,7 @@ button.close {
   right: 0;
 }
 .navbar-inverse {
-  background-color: #ad1f2f;
+  background-color: #2F5979;
 }
 .navbar-inverse .navbar-brand {
   color: #e6e6e6;
@@ -2552,13 +2552,13 @@ button.close {
 .navbar-inverse .navbar-nav > li > a:hover,
 .navbar-inverse .navbar-nav > li > a:focus {
   color: #ffffff;
-  background-color: #790713;
+  background-color: #294D69;
 }
 .navbar-inverse .navbar-nav > .active > a,
 .navbar-inverse .navbar-nav > .active > a:hover,
 .navbar-inverse .navbar-nav > .active > a:focus {
   color: #ffffff;
-  background-color: #da0c23;
+  background-color: #346285;
 }
 .navbar-inverse .navbar-nav > .disabled > a,
 .navbar-inverse .navbar-nav > .disabled > a:hover,
@@ -2579,7 +2579,7 @@ button.close {
 .navbar-inverse .navbar-nav > .open > a,
 .navbar-inverse .navbar-nav > .open > a:hover,
 .navbar-inverse .navbar-nav > .open > a:focus {
-  background-color: #da0c23;
+  background-color: #346285;
   color: #ffffff;
 }
 .navbar-inverse .navbar-nav > .dropdown > a:hover .caret {
@@ -5145,7 +5145,7 @@ ul.icons li [class*=" icon-"] {
 .nav-list > .active > a:hover,
 .nav-list > .active > a:focus {
   background-color: transparent;
-  color: #da0c23;
+  color: #346285;
   text-shadow: none;
 }
 .nav-list > .active a {
@@ -5254,7 +5254,7 @@ h4 small {
 }
 .page-header h1 {
   font-size: 28px;
-  color: #da0c23;
+  color: #346285;
 }
 p {
   padding-bottom: 5px;
